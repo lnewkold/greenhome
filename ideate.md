@@ -34,12 +34,13 @@ Context
 ## Periferally Relevant Groups Associated with Project 
 - contractors who use the building materials
 - consultants who recommend the products to their clients 
-- 
 
-## Fans and Skeptics of Product/Service
+## Fans and Skeptics of how my solution is solving the problem
 Fans
 - environmental enthusiasts
 - low income individuals looking to build a home or refurbish an existing home 
 
 Sceptics
 - contracters who prefer to use cheap and inexpensive materials 
+
+
