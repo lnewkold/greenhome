@@ -2,23 +2,17 @@ ideate.md
 
 # Design Challenges
 
-## problem statement 1
-- There aren't enough cookies in the world 
+## Problem Statement 1
+There is a need for a sustainable building platform. 
 
-## solutions : 
-- build more cookie factories 
-- make your own cookeis
-- pay someone to bake cookies all the time 
-- start cookie cooking classes
-- get ir dof sockie mosnter
-- break all big coockies into miultiple smaller cookies 
+## Possible Solutions 
+- website that houses sustainable building materials  
+- an app that houses sustainable building materials 
+
 
 Constraints
-- baking takes equipment and time 
-- some people might be allergic
-- ingredients cost money
+- it is difficult to provide inexpensive sustainable building materials 
+- difficult to define market 
 
 Context
-- cookies are desserts 
-- easy to carry
-- cookies crumble
+- sustainable building is growing 
