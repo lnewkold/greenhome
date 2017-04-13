@@ -16,3 +16,15 @@ Constraints
 
 Context
 - sustainable building is growing 
+
+# Customer Segment 
+
+## All Individuals Who Are Involved or Reached by My Challenge 
+- low income families 
+- low income individuals
+- first time homeowners 
+- all homeowners 
+- low income home owners
+- low income home refurbishers 
+- those who care about the invironment
+
