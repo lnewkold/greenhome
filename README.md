@@ -1,7 +1,7 @@
 # greenhome
 
 ## My Project Goal 
-To address low income individuals' lack of easily accessible sustainable building materials, knowing that sustainable building materials are relatively expensive, I'm going to partner with sustainable building material producer, and add impact for low income homebuilders in the united states!!
+To address low income individuals' lack of easily accessible sustainable building materials, knowing that sustainable building materials are relatively expensive, I'm going to partner with sustainable building material producers, and add impact for low income homebuilders in the united states!!
 
 
 
