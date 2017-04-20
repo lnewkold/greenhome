@@ -8,10 +8,10 @@
 
 ## Users Flow Process for Each Feature 
 1. Catalog feature and sustainability rating
-    Home page
-    Products button 
-    Filter options 
-    List view
+    * Home page
+    * Products button 
+    * Filter options 
+    * List view
 
 2. Tutorial feature
     * Home page 
