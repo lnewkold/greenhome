@@ -2,4 +2,4 @@ wireframe.md
 
 # Wireframe
 
-![Wireframe](greenhomewireframe.jpg)
+![Wireframe](greenhomewireframe.JPG)
