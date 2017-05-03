@@ -1,9 +1,9 @@
 
 * {
     padding: 15px;
-    border: 8-px lavender;
+    border: 8-px lavenderblush;
     margin: 2px;
-    background-color: lavender;
+    background-color: lavenderblush;
     
     
 }
@@ -20,16 +20,25 @@ h1 {
 
 h2{
     word-spacing: 0.1em;
-    font-family:'Taviraj' "Time New Roman", serif;
+    font-family:'Taviraj', "Time New Roman", serif;
     color: cadetblue;
     font-size: 30px;
     text-align: left; 
 }
 
 h3{
-    font-family:'Taviraj' "Time New Roman", serif;
+    font-family:'Libre Baskerville', "Times New Roman", serif;
     text-transform: uppercase;
     color: cadetblue;
     font-size: 22px;
     text-align: left;  
+}
+
+p{
+    font-family: monospace;
+    background-color: khaki;
+}
+
+a{
+    padding-top: 1px;
 }
