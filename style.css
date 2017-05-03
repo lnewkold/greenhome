@@ -1,14 +1,35 @@
-/* I've gotten you started to show how each element lives in a box! */
-* { /* Content is the stuff IN the element */
-  padding: 10px;/* Padding is white space AROUND content */
-  border: 1-px solid rgba(0, 0, 0, 0.3);/* Border is the OUTLINE of the element */
-  margin: 2px;/* Margin is the space BETWEEN elements */
-  background-color: lavender;
+
+* {
+    padding: 15px;
+    border: 8-px lavender;
+    margin: 2px;
+    background-color: lavender;
+    
+    
 }
 
-/* When you're ready to write your CSS, Erase the above code! */
-
-
 h1 {
-    font-family: Taviraj, "Times New Roman", serif; 
+    word-spacing: 0.1em;
+    text-transform: uppercase;
+    font-family:'Taviraj' "Time New Roman", serif;
+    color: darkblue;
+    font-size: 40px;
+    padding-top: 75px;
+    text-align: left;
+}
+
+h2{
+    word-spacing: 0.1em;
+    font-family:'Taviraj' "Time New Roman", serif;
+    color: cadetblue;
+    font-size: 30px;
+    text-align: left; 
+}
+
+h3{
+    font-family:'Taviraj' "Time New Roman", serif;
+    text-transform: uppercase;
+    color: cadetblue;
+    font-size: 22px;
+    text-align: left;  
 }
