@@ -1,8 +1,8 @@
 
 * {
-    padding: 15px;
+    padding: 20px;
     border: 8-px lavenderblush;
-    margin: 2px;
+    margin: 5px;
     background-color: lavenderblush;
     
     
@@ -31,14 +31,31 @@ h3{
     text-transform: uppercase;
     color: cadetblue;
     font-size: 22px;
-    text-align: left;  
+    text-align: left; 
+    text-align: center;
 }
 
 p{
     font-family: monospace;
     background-color: khaki;
+    width: 100%;
+    text-align:center;
 }
 
 a{
+    font-family: monospace;
     padding-top: 1px;
+    background: pink;
+    text-align:center;
+}
+
+#first{
+    background: none;
+}
+
+.center {
+    margin: auto;
+    width: 75%;
+    border: 3px solid green;
+    padding: 10px;
 }
