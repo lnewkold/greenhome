@@ -1,12 +1,12 @@
-## JavaScript Basics
-# Internal 
+# JavaScript Basics
+## Internal 
     <script>
         alert("Hello, world.");
     </script>
 
-# External 
+## External 
 .js text file
 
     <script src="script.js"></script>
     
-    
+  
