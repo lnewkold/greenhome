@@ -15,4 +15,4 @@ To address low income individuals' lack of easily accessible sustainable buildin
 *this was fun*
 **FUNNN**
 [this is a link](http://link.com)
-![alt text for an image](link to image.jpg)
+![alt text for an image](link to image.jpg)# lnewkold.github.io
